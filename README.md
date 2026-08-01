@@ -12,22 +12,23 @@
 ## 📁 Repository Structure
 
 ```
-retail-sales-performance-analysis/
+Retail-Sales-Performance-Analysis/
 │
 ├── data/
-│   └── Retail_Sales_Performance.xlsx       
+│   └── Dataset - Retail Sales Performance.xlsx
 │
 ├── analysis/
-│   └── Retail_Sales_Performance_Analysis.xlsx   
+│   └── Analysis - Retail Sales Performance.xlsx
 │
 ├── docs/
-│   └── Project_Report.md                     
+│   └── Project Report - Retail Sales Performance.md
 │
 ├── images/
-│   └── dashboard_preview.png                  
+│   └── Image- Retail Sales Performance/  (or place images directly here)
 │
-├── README.md
-└── LICENSE
+├── .gitattributes
+├── LICENSE
+└── README.md
 ```
 
 > **Note:** the analysis workbook is a *single self-contained file* — every sheet listed under "Workbook Guide" below is a tab inside `Retail_Sales_Performance_Analysis.xlsx`. There is no separate dashboard file.
@@ -113,6 +114,11 @@ A US retail company (Consumer / Corporate / Home Office segments, Furniture / Of
 | Unique Customers | **362** |
 | Average Discount Rate | **16.3%** |
 | Loss-Making Order Lines | **18.6%** of all lines |
+
+---
+## 📸 Dashboard Preview
+<img width="1920" height="1140" alt="Preview Dashboard 1" src="https://github.com/user-attachments/assets/069f8e2b-c9ce-4ad9-8baf-1a6f10e5648b" />
+<img width="1920" height="1140" alt="Preview Dashboard 2" src="https://github.com/user-attachments/assets/745e9381-682c-4ba9-b014-713d636bb1f4" />
 
 ---
 
